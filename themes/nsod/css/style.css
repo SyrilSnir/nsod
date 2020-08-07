@@ -1,0 +1,16 @@
+#block-nsod-header-image {
+    clear: none;
+    margin: 0;
+}
+@media screen and (max-width: 990px){
+    #block-nsod-header-image {
+        clear: both;
+        width: 100%;
+    }
+    .site-branding {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    
+}
